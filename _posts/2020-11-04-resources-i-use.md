@@ -38,9 +38,9 @@ From here these links are for purchasing assets online
 if you can't or don't have time to make to make game assets. They can be free of cost or priced
 
 ## Online Assets
-- [Open Game Art](https://opengameart.org/)
-- [Free Stuff](http://www.dumbmanex.com/bynd_freestuff.html)
-- [GameDev Market](https://www.gamedevmarket.net/)
-- [GameTextures](https://gametextures.com/)
-
+|   |   |   |   |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
 
